@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img width="350" height="262.5" src="media/awesome-strapi-logo.png" alt="Awesome Strapi">
+    <img width="1000" height="750" src="media/awesome-strapi-logo.png" alt="Awesome Strapi">
   </div>
 </div>
 
