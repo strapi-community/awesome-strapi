@@ -6,6 +6,8 @@
 
 ---
 
+# Contents
+
 <!-- vscode-markdown-toc -->
 
 - [Documentation, Tutorials, and Meetups](#documentation,-tutorials,-and-meetups)
@@ -24,7 +26,7 @@
 
 ---
 
-### <a name='documentation,-tutorials,-and-meetups'></a>Documentation, Tutorials, and Meetups
+## <a name='documentation,-tutorials,-and-meetups'></a>Documentation, Tutorials, and Meetups
 
 - [Strapi](https://github.com/strapi/strapi) - Official Strapi repository.
 - [Product Board](https://portal.productboard.com/strapi/) - Strapi roadmap and feature requests.
@@ -36,13 +38,13 @@
 - [Spectrum](https://spectrum.chat/strapi) - Spectrum Chat forums.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/strapi) - Stack Overflow tagged questions.
 
-### <a name='one-click-&-deployment'></a>One-Click & Deployment
+## <a name='one-click-&-deployment'></a>One-Click & Deployment
 
 - [DigitalOcean](https://marketplace.digitalocean.com/apps/strapi) - DigitalOcean Marketplace One-Click.
 - [Platform.sh](https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/strapi/.platform.template.yaml&utm_content=strapi&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform) - _Platform_.sh One-Click.
 - [Docker](https://github.com/strapi/strapi-docker) - Official Docker container.
 
-### <a name='starters-&-examples'></a>Starters & Examples
+## <a name='starters-&-examples'></a>Starters & Examples
 
 - [Food Advisor](https://github.com/strapi/foodadvisor) - THE Strapi demo application.
 - [Examples](https://github.com/strapi/strapi-examples) - General examples (Outdated).
@@ -54,26 +56,26 @@
 - [Angular Blog](https://github.com/strapi/strapi-starter-angular-blog) - Blog example using Angular and GraphQL.
 - [Jekyll](https://github.com/strapi/jekyll-strapi) - Jekyll plugin to retrieve content from a Strapi API.
 
-### <a name='official-&-community-plugins'></a>Official & Community Plugins
+## <a name='official-&-community-plugins'></a>Official & Community Plugins
 
 - [GraphQL](https://github.com/strapi/strapi/tree/master/packages/strapi-plugin-graphql) - Official GraphQL plugin including GraphQL Playground.
 - [Documentation](https://github.com/strapi/strapi/tree/master/packages/strapi-plugin-documentation) - Offical SwaggerUI/OpenAPI Documentation.
 - [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml.
 
-### <a name='email-providers'></a>Email Providers
+## <a name='email-providers'></a>Email Providers
 
 - [Amazon-SES](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-amazon-ses) - Amazon SES email provider.
 - [Mailgun](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-mailgun) - Mailgun email provider.
 - [Sendgrid](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendgrid) - Sendgrid email provider.
 - [Sendmail](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendmail) - Sendmail email provider.
 
-### <a name='upload-providers'></a>Upload Providers
+## <a name='upload-providers'></a>Upload Providers
 
 - [Amazon S3](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-aws-s3) - Amazon S3 bucket upload provider.
 - [Cloudinary](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-cloudinary) - Cloudinary upload provider.
 - [Rackspace](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-rackspace) - Rackspace upload provider.
 
-### <a name='ecosystem'></a>Ecosystem
+## <a name='ecosystem'></a>Ecosystem
 
 - [Buffet.js](https://github.com/strapi/buffet) - React components library for Strapi plugins.
 - [One-Click](https://github.com/strapi/one-click-deploy) - One-Click source scripts used to build all official one-click apps.
