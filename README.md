@@ -6,16 +6,22 @@
 
 ---
 
-# Contents
-
 <!-- vscode-markdown-toc -->
 
 - [Documentation, Tutorials, and Meetups](#documentation,-tutorials,-and-meetups)
 - [One-Click & Deployment](#one-click-&-deployment)
 - [Starters & Examples](#starters-&-examples)
-- [Official & Community Plugins](#official-&-community-plugins)
-- [Email Providers](#email-providers)
-- [Upload Providers](#upload-providers)
+  - [React](#react)
+  - [Gatsby](#gatsby)
+  - [Vue.js](#vue.js)
+  - [Next.js](#next.js)
+  - [Nuxt.js](#nuxt.js)
+  - [Angular](#angular)
+- [Plugin & Providers](#plugin-&-providers)
+  - [Official Plugins](#official-plugins)
+  - [Community Plugins](#community-plugins)
+  - [Email Providers](#email-providers)
+  - [Upload Providers](#upload-providers)
 - [Ecosystem](#ecosystem)
 
 <!-- vscode-markdown-toc-config
@@ -46,30 +52,53 @@
 
 ## <a name='starters-&-examples'></a>Starters & Examples
 
-- [Food Advisor](https://github.com/strapi/foodadvisor) - THE Strapi demo application.
 - [Examples](https://github.com/strapi/strapi-examples) - General examples (Outdated).
-- [Gatsby Blog](https://github.com/strapi/strapi-starter-gatsby-blog) - Blog example using Gatsby and GraphQL.
-- [React Blog](https://github.com/strapi/strapi-starter-react-blog) - Blog example using React and GraphQL.
-- [Vue Blog](https://github.com/strapi/strapi-starter-vue-blog) - Blog example using Vue and GraphQL.
-- [Next Blog](https://github.com/strapi/strapi-starter-next-blog) - Blog example using Next and GraphQL.
-- [Nuxt Blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Blog example using Nuxt and GraphQL.
-- [Angular Blog](https://github.com/strapi/strapi-starter-angular-blog) - Blog example using Angular and GraphQL.
 - [Jekyll](https://github.com/strapi/jekyll-strapi) - Jekyll plugin to retrieve content from a Strapi API.
 
-## <a name='official-&-community-plugins'></a>Official & Community Plugins
+### <a name='react'></a>React
+
+- [Food Advisor](https://github.com/strapi/foodadvisor) - THE Strapi demo application.
+- [React Blog](https://github.com/strapi/strapi-starter-react-blog) - Blog example using React and GraphQL.
+
+### <a name='gatsby'></a>Gatsby
+
+- [Gatsby Blog](https://github.com/strapi/strapi-starter-gatsby-blog) - Blog example using Gatsby and GraphQL.
+
+### <a name='vue.js'></a>Vue.js
+
+- [Vue Blog](https://github.com/strapi/strapi-starter-vue-blog) - Blog example using Vue and GraphQL.
+
+### <a name='next.js'></a>Next.js
+
+- [Next Blog](https://github.com/strapi/strapi-starter-next-blog) - Blog example using Next and GraphQL.
+
+### <a name='nuxt.js'></a>Nuxt.js
+
+- [Nuxt Blog](https://github.com/strapi/strapi-starter-nuxt-blog) - Blog example using Nuxt and GraphQL.
+
+### <a name='angular'></a>Angular
+
+- [Angular Blog](https://github.com/strapi/strapi-starter-angular-blog) - Blog example using Angular and GraphQL.
+
+## <a name='plugin-&-providers'></a>Plugin & Providers
+
+### <a name='official-plugins'></a>Official Plugins
 
 - [GraphQL](https://github.com/strapi/strapi/tree/master/packages/strapi-plugin-graphql) - Official GraphQL plugin including GraphQL Playground.
-- [Documentation](https://github.com/strapi/strapi/tree/master/packages/strapi-plugin-documentation) - Offical SwaggerUI/OpenAPI Documentation.
-- [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml.
+- [Documentation](https://github.com/strapi/strapi/tree/master/packages/strapi-plugin-documentation) - Offical SwaggerUI/OpenAPI Documentation..
 
-## <a name='email-providers'></a>Email Providers
+### <a name='community-plugins'></a>Community Plugins
+
+- [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml
+
+### <a name='email-providers'></a>Email Providers
 
 - [Amazon-SES](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-amazon-ses) - Amazon SES email provider.
 - [Mailgun](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-mailgun) - Mailgun email provider.
 - [Sendgrid](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendgrid) - Sendgrid email provider.
 - [Sendmail](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendmail) - Sendmail email provider.
 
-## <a name='upload-providers'></a>Upload Providers
+### <a name='upload-providers'></a>Upload Providers
 
 - [Amazon S3](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-aws-s3) - Amazon S3 bucket upload provider.
 - [Cloudinary](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-cloudinary) - Cloudinary upload provider.
