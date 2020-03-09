@@ -23,6 +23,7 @@
   - [Email Providers](#email-providers)
   - [Upload Providers](#upload-providers)
 - [Ecosystem](#ecosystem)
+  - [SDKs](#sdks)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -108,7 +109,7 @@
 - [Buffet.js](https://github.com/strapi/buffet) - React components library for Strapi plugins.
 - [One-Click](https://github.com/strapi/one-click-deploy) - One-Click source scripts used to build all official one-click apps.
 
-### SDKs
+### <a name='sdks'></a>SDKs
 
 - [Javascript SDK](https://github.com/strapi/strapi-sdk-javascript) - Official Javascript SDK (Currently outdated).
 - [Jekyll](https://github.com/strapi/jekyll-strapi) - Jekyll plugin to retrieve content from a Strapi API.
