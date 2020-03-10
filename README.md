@@ -4,6 +4,12 @@
   </div>
 </div>
 
+## Awesome Strapi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of awesome things related to [Strapi](https://github.com/strapi/strapi).
+
+Strapi is an open source Node.js Headless CMS to easily build customisable APIs
+
 ---
 
 <!-- vscode-markdown-toc -->
@@ -90,6 +96,7 @@
 ### <a name='community-plugins'></a>Community Plugins
 
 - [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml
+- [Import content](https://github.com/pouyamiralayi/strapi-import-content-plugin-tutorial) - Import content with a csv file, external url or raw text
 
 ### <a name='email-providers'></a>Email Providers
 
