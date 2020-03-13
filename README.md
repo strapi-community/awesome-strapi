@@ -109,6 +109,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Amazon S3](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-aws-s3) - Amazon S3 bucket upload provider.
 - [Cloudinary](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-cloudinary) - Cloudinary upload provider.
 - [Rackspace](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-rackspace) - Rackspace upload provider.
+- [Scaleway](https://github.com/Sqveeze/strapi-provider-upload-scaleway) - Scaleway upload provider.
 
 ## <a name='Ecosystem'></a>Ecosystem
 
