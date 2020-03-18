@@ -13,22 +13,22 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ---
 
 <!-- vscode-markdown-toc -->
-* [Documentation, Tutorials, and Meetups](#DocumentationTutorialsandMeetups)
-* [One-Click & Deployment](#One-ClickDeployment)
-* [Starters & Examples](#StartersExamples)
-	* [React](#React)
-	* [Gatsby](#Gatsby)
-	* [Vue.js](#Vue.js)
-	* [Next.js](#Next.js)
-	* [Nuxt.js](#Nuxt.js)
-	* [Angular](#Angular)
-* [Plugin & Providers](#PluginProviders)
-	* [Official Plugins](#OfficialPlugins)
-	* [Community Plugins](#CommunityPlugins)
-	* [Email Providers](#EmailProviders)
-	* [Upload Providers](#UploadProviders)
-* [Ecosystem](#Ecosystem)
-	* [SDKs](#SDKs)
+
+- [Documentation, Tutorials, and Meetups](#DocumentationTutorialsandMeetups)
+- [One-Click & Deployment](#One-ClickDeployment)
+- [Starters & Examples](#StartersExamples)
+  _ [React](#React)
+  _ [Gatsby](#Gatsby)
+  _ [Vue.js](#Vue.js)
+  _ [Next.js](#Next.js)
+  _ [Nuxt.js](#Nuxt.js)
+  _ [Angular](#Angular)
+- [Plugin & Providers](#PluginProviders)
+  _ [Official Plugins](#OfficialPlugins)
+  _ [Community Plugins](#CommunityPlugins)
+  _ [Email Providers](#EmailProviders)
+  _ [Upload Providers](#UploadProviders)
+- [Ecosystem](#Ecosystem) \* [SDKs](#SDKs)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -109,6 +109,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Amazon S3](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-aws-s3) - Amazon S3 bucket upload provider.
 - [Cloudinary](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-cloudinary) - Cloudinary upload provider.
 - [Rackspace](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-rackspace) - Rackspace upload provider.
+- [WeTransfer](https://github.com/zeybek/strapi-provider-upload-wt) - WeTransfer upload provider.
 
 ## <a name='Ecosystem'></a>Ecosystem
 
