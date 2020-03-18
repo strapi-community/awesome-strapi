@@ -13,22 +13,22 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ---
 
 <!-- vscode-markdown-toc -->
-
-- [Documentation, Tutorials, and Meetups](#DocumentationTutorialsandMeetups)
-- [One-Click & Deployment](#One-ClickDeployment)
-- [Starters & Examples](#StartersExamples)
-  _ [React](#React)
-  _ [Gatsby](#Gatsby)
-  _ [Vue.js](#Vue.js)
-  _ [Next.js](#Next.js)
-  _ [Nuxt.js](#Nuxt.js)
-  _ [Angular](#Angular)
-- [Plugin & Providers](#PluginProviders)
-  _ [Official Plugins](#OfficialPlugins)
-  _ [Community Plugins](#CommunityPlugins)
-  _ [Email Providers](#EmailProviders)
-  _ [Upload Providers](#UploadProviders)
-- [Ecosystem](#Ecosystem) \* [SDKs](#SDKs)
+* [Documentation, Tutorials, and Meetups](#DocumentationTutorialsandMeetups)
+* [One-Click & Deployment](#One-ClickDeployment)
+* [Starters & Examples](#StartersExamples)
+	* [React](#React)
+	* [Gatsby](#Gatsby)
+	* [Vue.js](#Vue.js)
+	* [Next.js](#Next.js)
+	* [Nuxt.js](#Nuxt.js)
+	* [Angular](#Angular)
+* [Plugin & Providers](#PluginProviders)
+	* [Official Plugins](#OfficialPlugins)
+	* [Community Plugins](#CommunityPlugins)
+	* [Email Providers](#EmailProviders)
+	* [Upload Providers](#UploadProviders)
+* [Ecosystem](#Ecosystem)
+	* [SDKs](#SDKs)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
