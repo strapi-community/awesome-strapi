@@ -102,14 +102,17 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Amazon-SES](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-amazon-ses) - Amazon SES email provider.
 - [Mailgun](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-mailgun) - Mailgun email provider.
 - [Sendgrid](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendgrid) - Sendgrid email provider.
+- [Sendinblue](https://github.com/eddybordi/strapi-provider-email-sendinblue) - Sendinblue email provider.
 - [Sendmail](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendmail) - Sendmail email provider.
 
 ### <a name='UploadProviders'></a>Upload Providers
 
 - [Amazon S3](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-aws-s3) - Amazon S3 bucket upload provider.
 - [Cloudinary](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-cloudinary) - Cloudinary upload provider.
+- [Google Cloud Storage](https://github.com/Lith/strapi-provider-upload-google-cloud-storage) - Google Cloud Storage upload provider.
 - [Rackspace](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-rackspace) - Rackspace upload provider.
 - [WeTransfer](https://github.com/zeybek/strapi-provider-upload-wt) - WeTransfer upload provider.
+- [Scaleway](https://github.com/Sqveeze/strapi-provider-upload-scaleway) - Scaleway upload provider.
 
 ## <a name='Ecosystem'></a>Ecosystem
 
