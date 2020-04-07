@@ -14,6 +14,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 <!-- vscode-markdown-toc -->
 * [Documentation, Tutorials, and Meetups](#DocumentationTutorialsandMeetups)
+* [Showcase](#Showcase)
 * [One-Click & Deployment](#One-ClickDeployment)
 * [Starters & Examples](#StartersExamples)
 	* [React](#React)
@@ -50,6 +51,8 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Spectrum](https://spectrum.chat/strapi) - Spectrum Chat forums.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/strapi) - Stack Overflow tagged questions.
 
+## <a name='Showcase'></a>Showcase
+ - [Projects using Strapi](https://strapi.io/showcase)
 ## <a name='One-ClickDeployment'></a>One-Click & Deployment
 
 - [DigitalOcean](https://marketplace.digitalocean.com/apps/strapi) - DigitalOcean Marketplace One-Click.
