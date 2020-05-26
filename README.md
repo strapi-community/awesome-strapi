@@ -23,6 +23,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 	* [Next.js](#Next.js)
 	* [Nuxt.js](#Nuxt.js)
 	* [Angular](#Angular)
+	* [Sapper](#Sapper)
 * [Plugin & Providers](#PluginProviders)
 	* [Official Plugins](#OfficialPlugins)
 	* [Community Plugins](#CommunityPlugins)
@@ -88,6 +89,10 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ### <a name='Angular'></a>Angular
 
 - [Angular Blog](https://github.com/strapi/strapi-starter-angular-blog) - Blog example using Angular and GraphQL.
+
+### <a name='Sapper'></a>Sapper
+
+- [Sapper Blog](https://github.com/malgamves/strapi-starter-minimal-sapper-blog) - A minimal blog example using Sapper and GraphQL.
 
 ## <a name='PluginProviders'></a>Plugin & Providers
 
