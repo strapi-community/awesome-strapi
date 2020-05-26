@@ -92,7 +92,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 ### <a name='Sapper'></a>Sapper
 
-- [Sapper Blog](https://github.com/malgamves/strapi-starter-minimal-sapper-blog) - A minimal blog example using Sapper and GraphQL.
+- [Sapper Blog](https://github.com/malgamves/strapi-starter-minimal-sapper-blog) - Minimal blog example using Sapper and GraphQL.
 
 ## <a name='PluginProviders'></a>Plugin & Providers
 
