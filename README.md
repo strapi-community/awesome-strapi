@@ -105,6 +105,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 - [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml.
 - [Import content](https://github.com/pouyamiralayi/strapi-import-content-plugin-tutorial) - Import content with a csv file, external url or raw text.
+- [Responsive image](https://github.com/nicolashmln/strapi-plugin-responsive-image) - Custom responsive image formats.
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
