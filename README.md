@@ -108,6 +108,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Responsive image](https://github.com/nicolashmln/strapi-plugin-responsive-image) - Custom responsive image formats.
 - [Entity Relationship Chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Display Entity Relationship Diagram of all models, fields and relations.
 - [ToastUI Wysiwyg](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - ToastUI based Wysiwyg replacement for strapi.
+- [Image Api](https://github.com/kwinyyyc/strapi-plugin-image-api) - Search and import image from Unsplash to the rich text field with appropriate attribution.
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
