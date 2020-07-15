@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="media/awesome-strapi-logo.jpg" alt="Awesome Strapi">
+    <img src="media/awesome-strapi-logo.png" alt="Awesome Strapi">
   </div>
 </div>
 
