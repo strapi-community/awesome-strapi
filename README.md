@@ -116,6 +116,10 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 - [LRU Caching](https://github.com/patrixr/strapi-middleware-cache) - LRU caching for the api.
 
+### <a name='CommunityHooks'></a>Community Hooks
+
+- [Algolia](https://github.com/MattieBelt/strapi-hook-algolia) - Maintain search indeces with the Agolia service.
+
 ### <a name='EmailProviders'></a>Email Providers
 
 - [Amazon-SES](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-amazon-ses) - Amazon SES email provider.
