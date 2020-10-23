@@ -49,6 +49,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Tutorials](https://strapi.io/tutorials) - Official and Community Tutorials ([Submit](https://github.com/strapi/strapi-tutorials) new tutorials).
 - [RFC](https://github.com/strapi/rfcs) - Offical Request for Comments.
 - [Meetups](https://github.com/strapi/strapi-meetups) - Meetups and Webinars.
+- [Strapi Forum](https://forum.strapi.io) - Official Strapi forum.
 - [Slack](http://slack.strapi.io/) - Offical Strapi Slack.
 - [Spectrum](https://spectrum.chat/strapi) - Spectrum Chat forums.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/strapi) - Stack Overflow tagged questions.
