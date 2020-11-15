@@ -152,3 +152,4 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 - [Javascript SDK](https://github.com/strapi/strapi-sdk-javascript) - Official Javascript SDK (Currently outdated).
 - [Jekyll](https://github.com/strapi/jekyll-strapi) - Jekyll plugin to retrieve content from a Strapi API.
+- [MobX-Strapi](https://github.com/EasyWebApp/MobX-Strapi) - **MobX** v5 SDK for Strapi v3
