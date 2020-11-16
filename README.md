@@ -65,6 +65,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ## <a name='StartersExamples'></a>Starters & Examples
 
 - [Examples](https://github.com/strapi/strapi-examples) - General examples (Outdated).
+- [OrgServer](https://github.com/kaiyuanshe/OrgServer) - **Data Server** scaffold for all kinds of **Organizations**
 
 ### <a name='React'></a>React
 
@@ -113,6 +114,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Comments](https://github.com/VirtusLab/strapi-plugin-comments) - End to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
 - [Moesif](https://github.com/bglidwell/strapi-plugin-moesif) - Plugin to add Moesif API Analytics and Monitoring (https://www.moesif.com/).
 - [oEmbed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...).
+- [CKEditor](https://github.com/TechQuery/strapi-plugin-ckeditor) - Replace Strapi default WYSIWYG editor with **CKEditor** 5
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
@@ -150,3 +152,4 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 - [Javascript SDK](https://github.com/strapi/strapi-sdk-javascript) - Official Javascript SDK (Currently outdated).
 - [Jekyll](https://github.com/strapi/jekyll-strapi) - Jekyll plugin to retrieve content from a Strapi API.
+- [MobX-Strapi](https://github.com/EasyWebApp/MobX-Strapi) - **MobX** v5 SDK for Strapi v3
