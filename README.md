@@ -115,6 +115,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Moesif](https://github.com/bglidwell/strapi-plugin-moesif) - Plugin to add Moesif API Analytics and Monitoring (https://www.moesif.com/).
 - [oEmbed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...).
 - [CKEditor](https://github.com/TechQuery/strapi-plugin-ckeditor) - Replace Strapi default WYSIWYG editor with **CKEditor** 5
+- [Toast UI Editor](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - Replace Strapi default WYSIWYG editor with **Toast UI Editor**
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
