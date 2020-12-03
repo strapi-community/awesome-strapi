@@ -126,6 +126,10 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 - [Algolia](https://github.com/MattieBelt/strapi-hook-algolia) - Maintain search indeces with the Agolia service.
 
+### <a name='CommunityConnectors'></a>Community Connectors
+
+- [Firestore](https://github.com/arrowheadapps/strapi-connector-firestore) - Database connector for Cloud Firestore.
+
 ### <a name='EmailProviders'></a>Email Providers
 
 - [Amazon-SES](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-amazon-ses) - Amazon SES email provider.
