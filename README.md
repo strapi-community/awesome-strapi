@@ -117,7 +117,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [CKEditor](https://github.com/TechQuery/strapi-plugin-ckeditor) - Replace Strapi default WYSIWYG editor with **CKEditor** 5
 - [Toast UI Editor](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - Replace Strapi default WYSIWYG editor with **Toast UI Editor**
 - [Navigation Builder](https://github.com/VirtusLab/strapi-plugin-navigation) - Navigation / menu builder feature with possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
-- [Preview Content](https://github.com/danestves/strapi-plugin-preview-content) - A plugin for Strapi Headless CMS that provides content preview to integrate with any frontend (preview button like WordPress do)
+- [Preview Content](https://github.com/danestves/strapi-plugin-preview-content) - A plugin for that provides content preview to integrate with any frontend (preview button like WordPress do).
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
