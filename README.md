@@ -110,12 +110,13 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Responsive image](https://github.com/nicolashmln/strapi-plugin-responsive-image) - Custom responsive image formats.
 - [Entity Relationship Chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Display Entity Relationship Diagram of all models, fields and relations.
 - [ToastUI Wysiwyg](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - ToastUI based Wysiwyg replacement for strapi.
-- [Image Api](https://github.com/kwinyyyc/strapi-plugin-image-api) - Search and import image from Unsplash to the rich text field with appropriate attribution.
+- [Zeasy Image Api](https://github.com/kwinyyyc/strapi-plugin-zeasy-image-api) - Search and import image from Unsplash / Giphy to the rich text field with appropriate attribution.
 - [Comments](https://github.com/VirtusLab/strapi-plugin-comments) - End to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
 - [Moesif](https://github.com/bglidwell/strapi-plugin-moesif) - Plugin to add Moesif API Analytics and Monitoring (https://www.moesif.com/).
 - [oEmbed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...).
 - [CKEditor](https://github.com/TechQuery/strapi-plugin-ckeditor) - Replace Strapi default WYSIWYG editor with **CKEditor** 5
 - [Toast UI Editor](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - Replace Strapi default WYSIWYG editor with **Toast UI Editor**
+- [React MD Editor](https://github.com/kwinyyyc/strapi-plugin-wysiwsg-react-md-editor) - Replace Strapi default WYSIWYG editor with **React MD Editor**
 - [Navigation Builder](https://github.com/VirtusLab/strapi-plugin-navigation) - Navigation / menu builder feature with possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
