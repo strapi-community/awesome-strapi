@@ -121,6 +121,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
 - [LRU Caching](https://github.com/patrixr/strapi-middleware-cache) - LRU caching for the api.
+- [Upload Plugin Cache](https://github.com/alexkainzinger/strapi-middleware-upload-plugin-cache) - Configurable middleware for caching uploaded assets when using strapi-provider-upload-local.
 
 ### <a name='CommunityHooks'></a>Community Hooks
 
