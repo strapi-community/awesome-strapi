@@ -118,6 +118,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [CKEditor](https://github.com/TechQuery/strapi-plugin-ckeditor) - Replace Strapi default WYSIWYG editor with **CKEditor** 5
 - [React MD Editor](https://github.com/kwinyyyc/strapi-plugin-wysiwsg-react-md-editor) - Replace Strapi default WYSIWYG editor with **React MD Editor**
 - [Navigation Builder](https://github.com/VirtusLab/strapi-plugin-navigation) - Navigation / menu builder feature with possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
+- [CKEditor 5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of **CKEditor** 5.
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
