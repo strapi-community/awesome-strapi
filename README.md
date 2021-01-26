@@ -120,6 +120,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Navigation Builder](https://github.com/VirtusLab/strapi-plugin-navigation) - Navigation / menu builder feature with possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
 - [CKEditor 5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of **CKEditor** 5.
 - [Email Designer](https://github.com/alexzaganelli/strapi-plugin-email-designer) - Design your own **email templates** w/ visual composer directly inside the Strapi admin panel and send composed emails programmatically from your controllers / services.
+- [Video Thumbnail](https://github.com/darron1217/strapi-plugin-video-thumbnail) - Add video thumbnail functionality to Strapi Upload plugin (using FFmpeg).
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
