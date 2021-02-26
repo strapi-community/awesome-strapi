@@ -143,6 +143,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Sync Roles And Permissions](https://github.com/alan2207/strapi-plugin-sync-roles-permissions) - Store user roles and permissions configuration as a JSON file and then import and reuse it any time.
 - [Video Thumbnail](https://github.com/darron1217/strapi-plugin-video-thumbnail) - Add video thumbnail functionality to Upload plugin (using FFmpeg).
 - [Zeasy Image Api](https://github.com/kwinyyyc/strapi-plugin-zeasy-image-api) - Search and import image from Unsplash / Giphy to the rich text field with appropriate attribution.
+- [Point List Field](https://github.com/akcyp/strapi-plugin-point-list) - Mark area on image and save path in database.
 
 ### <a name='CommunityWYSIWYGReplacements'></a>Community WYSIWYG Replacements
 
