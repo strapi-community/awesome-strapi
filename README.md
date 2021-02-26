@@ -143,13 +143,16 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Sync Roles And Permissions](https://github.com/alan2207/strapi-plugin-sync-roles-permissions) - Store user roles and permissions configuration as a JSON file and then import and reuse it any time.
 - [Video Thumbnail](https://github.com/darron1217/strapi-plugin-video-thumbnail) - Add video thumbnail functionality to Upload plugin (using FFmpeg).
 - [Zeasy Image Api](https://github.com/kwinyyyc/strapi-plugin-zeasy-image-api) - Search and import image from Unsplash / Giphy to the rich text field with appropriate attribution.
-- [Point List Field](https://github.com/akcyp/strapi-plugin-point-list) - Mark area on image and save path in database.
 
 ### <a name='CommunityWYSIWYGReplacements'></a>Community WYSIWYG Replacements
 
 - [CKEditor 5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of **CKEditor** 5.
 - [React MD Editor](https://github.com/kwinyyyc/strapi-plugin-wysiwsg-react-md-editor) - Replace Strapi default WYSIWYG editor with **React MD Editor**.
 - [Toast UI Editor](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - Replace Strapi default WYSIWYG editor with **Toast UI Editor**.
+
+### <a name='CommunityCustomFieldPlugins'></a>Community Custom Field Plugins
+
+- [Point List Field](https://github.com/akcyp/strapi-plugin-point-list) - Mark an area on the image and save the list of points to the database.
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
