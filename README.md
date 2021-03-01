@@ -31,6 +31,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
   - [Official Plugins](#OfficialPlugins)
   - [Community Plugins](#CommunityPlugins)
   - [Community WYSIWYG Replacements](#CommunityWYSIWYGReplacements)
+  - [Community Custom Field Plugins](#CommunityCustomFieldPlugins)
   - [Community Middlewares](#CommunityMiddlewares)
   - [Community Hooks](#CommunityHooks)
   - [Email Providers](#EmailProviders)
@@ -150,6 +151,10 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [CKEditor 5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of **CKEditor** 5.
 - [React MD Editor](https://github.com/kwinyyyc/strapi-plugin-wysiwsg-react-md-editor) - Replace Strapi default WYSIWYG editor with **React MD Editor**.
 - [Toast UI Editor](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - Replace Strapi default WYSIWYG editor with **Toast UI Editor**.
+
+### <a name='CommunityCustomFieldPlugins'></a>Community Custom Field Plugins
+
+- [Point List Field](https://github.com/akcyp/strapi-plugin-point-list) - Mark an area on the image and save the list of points to the database.
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
