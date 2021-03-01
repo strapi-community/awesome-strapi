@@ -31,6 +31,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
   - [Official Plugins](#OfficialPlugins)
   - [Community Plugins](#CommunityPlugins)
   - [Community WYSIWYG Replacements](#CommunityWYSIWYGReplacements)
+  - [Community Custom Field Plugins](#CommunityCustomFieldPlugins)
   - [Community Middlewares](#CommunityMiddlewares)
   - [Community Hooks](#CommunityHooks)
   - [Email Providers](#EmailProviders)
