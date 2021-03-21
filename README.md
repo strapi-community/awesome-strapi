@@ -133,6 +133,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ### <a name='CommunityPlugins'></a>Community Plugins
 
 - [Comments](https://github.com/VirtusLab/strapi-plugin-comments) - End to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
+- [Config Sync](https://github.com/boazpoolman/strapi-plugin-config-sync) - Manage database config (core_store e.g.) as partial JSON files. Import/Export across environments.
 - [Email Designer](https://github.com/alexzaganelli/strapi-plugin-email-designer) - Design your own **email templates** w/ visual composer directly inside the Strapi admin panel and send composed emails programmatically from your controllers / services.
 - [Entity Relationship Chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Display Entity Relationship Diagram of all models, fields and relations.
 - [Import content](https://github.com/pouyamiralayi/strapi-import-content-plugin-tutorial) - Import content with a csv file, external url or raw text.
