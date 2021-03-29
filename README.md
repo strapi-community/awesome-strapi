@@ -31,6 +31,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
   - [Official Plugins](#OfficialPlugins)
   - [Community Plugins](#CommunityPlugins)
   - [Community WYSIWYG Replacements](#CommunityWYSIWYGReplacements)
+  - [Community Custom Field Plugins](#CommunityCustomFieldPlugins)
   - [Community Middlewares](#CommunityMiddlewares)
   - [Community Hooks](#CommunityHooks)
   - [Email Providers](#EmailProviders)
@@ -132,10 +133,13 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ### <a name='CommunityPlugins'></a>Community Plugins
 
 - [Comments](https://github.com/VirtusLab/strapi-plugin-comments) - End to end comments feature with their moderation panel, bad words filtering, abuse reporting and more.
+- [Config Sync](https://github.com/boazpoolman/strapi-plugin-config-sync) - Manage database config (core_store e.g.) as partial JSON files. Import/Export across environments.
 - [Email Designer](https://github.com/alexzaganelli/strapi-plugin-email-designer) - Design your own **email templates** w/ visual composer directly inside the Strapi admin panel and send composed emails programmatically from your controllers / services.
 - [Entity Relationship Chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart) - Display Entity Relationship Diagram of all models, fields and relations.
 - [Expo Notifications](https://github.com/Lith/strapi-plugin-notification-expo) - Send Expo notification to mobile app
+- [Github Publish](https://github.com/phantomstudios/strapi-plugin-github-publish) - Lets you publish content changes using a GitHub Actions workflow.
 - [Import content](https://github.com/pouyamiralayi/strapi-import-content-plugin-tutorial) - Import content with a csv file, external url or raw text.
+- [Migrate](https://github.com/ijsto/strapi-plugin-migrate) - Migrate Settings & Layouts, User Permissions between environments. (Webhooks & Content migrations coming soon).
 - [Moesif](https://github.com/bglidwell/strapi-plugin-moesif) - Plugin to add Moesif API Analytics and Monitoring (https://www.moesif.com/).
 - [Navigation Builder](https://github.com/VirtusLab/strapi-plugin-navigation) - Navigation / menu builder feature with possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
 - [oEmbed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...).
@@ -151,6 +155,10 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [React MD Editor](https://github.com/kwinyyyc/strapi-plugin-wysiwsg-react-md-editor) - Replace Strapi default WYSIWYG editor with **React MD Editor**.
 - [Toast UI Editor](https://github.com/fagbokforlaget/strapi-plugin-wysiwyg-toastui) - Replace Strapi default WYSIWYG editor with **Toast UI Editor**.
 
+### <a name='CommunityCustomFieldPlugins'></a>Community Custom Field Plugins
+
+- [Point List Field](https://github.com/akcyp/strapi-plugin-point-list) - Mark an area on the image and save the list of points to the database.
+
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
 - [LRU Caching](https://github.com/patrixr/strapi-middleware-cache) - LRU caching for the api.
@@ -164,6 +172,8 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 
 - [Amazon-SES](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-amazon-ses) - Amazon SES email provider.
 - [Mailgun](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-mailgun) - Mailgun email provider.
+- [MailJet](http://github.com/ijsto/strapi-provider-email-mailjet) - MailJet email provider.
+- [Mailtrap](https://github.com/alessandrocaprarelli/strapi-provider-email-mailtrap) - Mailtrap email provider.
 - [Nodemailer](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-nodemailer) - Nodemailer email provider.
 - [Sendgrid](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendgrid) - Sendgrid email provider.
 - [Sendinblue](https://github.com/eddybordi/strapi-provider-email-sendinblue) - Sendinblue email provider.
