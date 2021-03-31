@@ -38,6 +38,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
   - [Upload Providers](#UploadProviders)
 - [Ecosystem](#Ecosystem)
   - [SDKs](#SDKs)
+  - [Third Party Modules](#ThirdPartyModules)
 
 <!-- vscode-markdown-toc-config
 	numbering=false
@@ -201,3 +202,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Javascript SDK](https://github.com/strapi/strapi-sdk-javascript) - Official Javascript SDK (Currently outdated).
 - [Jekyll](https://github.com/strapi/jekyll-strapi) - Jekyll plugin to retrieve content from a Strapi API.
 - [MobX-Strapi](https://github.com/EasyWebApp/MobX-Strapi) - **MobX** v5 SDK for Strapi v3
+
+### <a name='ThirdPartyModules'></a>Third Party Modules
+
+- [NgxStrapiAuth](https://github.com/jabali2004/ngx-strapi-auth) - Angular authentication library with pre-built components.
