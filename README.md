@@ -146,6 +146,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Responsive image](https://github.com/nicolashmln/strapi-plugin-responsive-image) - Custom responsive image formats.
 - [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml.
 - [Sync Roles And Permissions](https://github.com/alan2207/strapi-plugin-sync-roles-permissions) - Store user roles and permissions configuration as a JSON file and then import and reuse it any time.
+- [Testing](https://github.com/Antoine-lb/strapi-plugin-testing) - Out of the box Unit/Integration testing with mocking functions.
 - [Video Thumbnail](https://github.com/darron1217/strapi-plugin-video-thumbnail) - Add video thumbnail functionality to Upload plugin (using FFmpeg).
 - [Zeasy Image Api](https://github.com/kwinyyyc/strapi-plugin-zeasy-image-api) - Search and import image from Unsplash / Giphy to the rich text field with appropriate attribution.
 
