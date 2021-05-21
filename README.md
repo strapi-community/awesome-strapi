@@ -97,6 +97,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ### <a name='Gridsome'></a>Gridsome
 
 - [Gridsome Blog](https://github.com/strapi/strapi-starter-gridsome-blog) - Blog example using Gridsome
+- [Gridsome Learning Platform](https://strapi.io/blog/how-to-build-a-learning-platform-with-strapi-cms-and-gridsome-1) - Learning platform using Gridsome
 
 ### <a name='Next.js'></a>Next.js
 
