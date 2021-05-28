@@ -145,6 +145,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Navigation Builder](https://github.com/VirtusLab/strapi-plugin-navigation) - Navigation / menu builder feature with possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
 - [oEmbed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...).
 - [Responsive image](https://github.com/nicolashmln/strapi-plugin-responsive-image) - Custom responsive image formats.
+- [Raw Query](https://github.com/creazy231/strapi-plugin-raw-query) - Sends raw query strings to the database.
 - [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml.
 - [Sync Roles And Permissions](https://github.com/alan2207/strapi-plugin-sync-roles-permissions) - Store user roles and permissions configuration as a JSON file and then import and reuse it any time.
 - [Video Thumbnail](https://github.com/darron1217/strapi-plugin-video-thumbnail) - Add video thumbnail functionality to Upload plugin (using FFmpeg).
