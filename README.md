@@ -160,6 +160,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 ### <a name='CommunityCustomFieldPlugins'></a>Community Custom Field Plugins
 
 - [Point List Field](https://github.com/akcyp/strapi-plugin-point-list) - Mark an area on the image and save the list of points to the database.
+- [Internaional Fields](https://github.com/MattieBelt/strapi-plugin-international-fields) - Add localized fields: Country, Language, Nationality
 
 ### <a name='CommunityMiddlewares'></a>Community Middlewares
 
