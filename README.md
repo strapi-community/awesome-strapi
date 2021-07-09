@@ -195,6 +195,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Rackspace](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-upload-rackspace) - Rackspace upload provider.
 - [Scaleway](https://github.com/Sqveeze/strapi-provider-upload-scaleway) - Scaleway upload provider.
 - [WeTransfer](https://github.com/zeybek/strapi-provider-upload-wt) - WeTransfer upload provider.
+- [Yandex Cloud](https://github.com/teinett/strapi-provider-upload-yandex-cloud) - Yandex Cloud Object Storage upload provider.
 
 ## <a name='Ecosystem'></a>Ecosystem
 
