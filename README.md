@@ -180,6 +180,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [MailJet](http://github.com/ijsto/strapi-provider-email-mailjet) - MailJet email provider.
 - [Mailtrap](https://github.com/alessandrocaprarelli/strapi-provider-email-mailtrap) - Mailtrap email provider.
 - [Nodemailer](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-nodemailer) - Nodemailer email provider.
+- [Postmark](https://github.com/ijsto/strapi-provider-email-postmark) - Postmark email provider. 
 - [Sendgrid](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendgrid) - Sendgrid email provider.
 - [Sendinblue](https://github.com/eddybordi/strapi-provider-email-sendinblue) - Sendinblue email provider.
 - [Sendmail](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendmail) - Sendmail email provider.
