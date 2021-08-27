@@ -71,6 +71,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [DigitalOcean](https://marketplace.digitalocean.com/apps/strapi) - DigitalOcean Marketplace One-Click.
 - [Platform.sh](https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/strapi/.platform.template.yaml&utm_content=strapi&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform) - _Platform_.sh One-Click.
 - [Docker](https://github.com/strapi/strapi-docker) - Official Docker container.
+- [Railway](https://github.com/railwayapp/starters/tree/master/examples/strapi) - Railway One-Click.
 
 ## <a name='Templates'></a> Templates
 
