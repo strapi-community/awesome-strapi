@@ -141,6 +141,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [Expo Notifications](https://github.com/Lith/strapi-plugin-notification-expo) - Send Expo notification to mobile app
 - [Github Publish](https://github.com/phantomstudios/strapi-plugin-github-publish) - Lets you publish content changes using a GitHub Actions workflow.
 - [Import content](https://github.com/pouyamiralayi/strapi-import-content-plugin-tutorial) - Import content with a csv file, external url or raw text.
+- [Medusa](https://github.com/Deathwish98/medusa-plugin-strapi) - Open-source Node.js commerce engine for Strapi.
 - [Meilisearch](https://github.com/meilisearch/strapi-plugin-meilisearch) - Add your Strapi collections into a MeiliSearch instance.
 - [Migrate](https://github.com/ijsto/strapi-plugin-migrate) - Migrate Settings & Layouts, User Permissions between environments. (Webhooks & Content migrations coming soon).
 - [Moesif](https://github.com/bglidwell/strapi-plugin-moesif) - Plugin to add Moesif API Analytics and Monitoring (https://www.moesif.com/).
@@ -182,7 +183,7 @@ Strapi is an open source Node.js Headless CMS to easily build customisable APIs
 - [MailJet](http://github.com/ijsto/strapi-provider-email-mailjet) - MailJet email provider.
 - [Mailtrap](https://github.com/alessandrocaprarelli/strapi-provider-email-mailtrap) - Mailtrap email provider.
 - [Nodemailer](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-nodemailer) - Nodemailer email provider.
-- [Postmark](https://github.com/ijsto/strapi-provider-email-postmark) - Postmark email provider. 
+- [Postmark](https://github.com/ijsto/strapi-provider-email-postmark) - Postmark email provider.
 - [Sendgrid](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendgrid) - Sendgrid email provider.
 - [Sendinblue](https://github.com/eddybordi/strapi-provider-email-sendinblue) - Sendinblue email provider.
 - [Sendmail](https://github.com/strapi/strapi/tree/master/packages/strapi-provider-email-sendmail) - Sendmail email provider.
