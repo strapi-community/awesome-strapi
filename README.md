@@ -223,6 +223,7 @@ For community packages and providers, we currently are promoting a community pro
 - [Moesif](https://github.com/bglidwell/strapi-plugin-moesif) - Plugin to add Moesif API Analytics and Monitoring (https://www.moesif.com/).
 - [Navigation Builder](https://github.com/VirtusLab/strapi-plugin-navigation) - Navigation / menu builder feature with possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
 - [oEmbed](https://github.com/nicolashmln/strapi-plugin-oembed) - Embed content from third party sites (Youtube, Vimeo, Soundcloud, ...).
+- [Passwordless](https://github.com/kucherenko/strapi-plugin-passwordless) - A plugin that provides ability to sign-in/sign-up to an application by link had sent to email.
 - [Responsive image](https://github.com/nicolashmln/strapi-plugin-responsive-image) - Custom responsive image formats.
 - [Raw Query](https://github.com/creazy231/strapi-plugin-raw-query) - Sends raw query strings to the database.
 - [Sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap) - Generate a sitemap.xml.
