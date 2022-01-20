@@ -313,4 +313,4 @@ For community packages and providers, we currently are promoting a community pro
 
 As of January 2022, this repo is no longer maintained by Strapi LLC. nor Strapi SAS and the ownership has been collectively transferred to the Strapi Community who has no directly relation to either Strapi LLC. nor Strapi SAS. Strapi is a registered trademark of Strapi LLC and the Strapi Community have been granted exclusive inherited rights to use the name "Strapi" as well as the Strapi logo contained in the following files: [awesome-strapi-logo.jpg](./media/awesome-strapi-logo.jpg) and [awesome-strapi-logo.png](./media/awesome-strapi-logo.png). Further modification of this logo is allowed under the MIT license stored in this repo by the new maintainers.
 
-If anyone has any questions regarding the transfer of the repo or the rights granted please feel free to email Strapi LLC directly at hi@strapi.io
+If anyone has any questions regarding the transfer of the repo or the rights granted please feel free to email Strapi LLC directly at community@strapi.io
