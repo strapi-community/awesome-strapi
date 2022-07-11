@@ -108,7 +108,7 @@ We are currently working on porting our starters & templates from v3, you can fo
 
 #### Official Plugins
 
-*Note: All official Strapi v4 Plugins will start with `@strapi/`*
+_Note: All official Strapi v4 Plugins will start with `@strapi/`_
 
 - [Swagger Documentation](https://github.com/strapi/strapi/tree/master/packages/plugins/documentation)
 - [GraphQL](https://github.com/strapi/strapi/tree/master/packages/plugins/graphql)
@@ -118,7 +118,7 @@ We are currently working on porting our starters & templates from v3, you can fo
 
 #### Official Providers
 
-*Note: All official Strapi v4 Providers will start with `@strapi/`*
+_Note: All official Strapi v4 Providers will start with `@strapi/`_
 
 - [Email - Amazon SES](https://github.com/strapi/strapi/tree/master/packages/providers/email-amazon-ses)
 - [Email - Mailgun](https://github.com/strapi/strapi/tree/master/packages/providers/email-mailgun)
@@ -308,3 +308,9 @@ For community packages and providers, we currently are promoting a community pro
 **Note that all of these plugins/providers/packages are currently for v3**
 
 - [NgxStrapiAuth](https://github.com/jabali2004/ngx-strapi-auth) - Angular authentication library with pre-built components.
+
+## Notice
+
+As of January 2022, this repo is no longer maintained by Strapi LLC. nor Strapi SAS and the ownership has been collectively transferred to the Strapi Community who has no directly relation to either Strapi LLC. nor Strapi SAS. Strapi is a registered trademark of Strapi LLC and the Strapi Community have been granted exclusive inherited rights to use the name "Strapi" as well as the Strapi logo contained in the following files: [awesome-strapi-logo.jpg](./media/awesome-strapi-logo.jpg) and [awesome-strapi-logo.png](./media/awesome-strapi-logo.png). Further modification of this logo is allowed under the MIT license stored in this repo by the new maintainers.
+
+If anyone has any questions regarding the transfer of the repo or the rights granted please feel free to email Strapi LLC directly at community@strapi.io
