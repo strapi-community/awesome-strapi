@@ -56,7 +56,7 @@ Strapi is an open source Node.js Headless CMS to easily build customizable APIs
 
 - [Strapi](https://github.com/strapi/strapi) - Official Strapi repository.
 - [Try live demo](https://strapi.io/demo) - Official Strapi demo.
-- [Product Board](https://portal.productboard.com/strapi/) - Strapi roadmap and feature requests.
+- [Strapi Feedback](https://feedback.strapi.io/) - Strapi roadmap and feature requests.
 
 ### Documentation
 
