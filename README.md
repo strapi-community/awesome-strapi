@@ -103,6 +103,7 @@ We are currently working on porting our starters & templates from v3, you can fo
 - [Template - Blog](https://github.com/strapi/starters-and-templates/tree/main/packages/templates/blog)
 - [Template - Corporate](https://github.com/strapi/starters-and-templates/tree/main/packages/templates/corporate)
 - [Template - Ecommerce](https://github.com/strapi/starters-and-templates/tree/main/packages/templates/ecommerce)
+- [TurboStrapi](https://github.com/sawden/turbostrapi) - Template with Next.js, TypeScript, Tailwind CSS and Turborepo.
 
 ### Plugins & Providers
 
